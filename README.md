@@ -27,7 +27,7 @@
 >
 >> [프로젝트 상세(Back-end)](https://github.com/danny1014/224-Backend.git)  
 >
->> [프로젝트 상세(Front-end)]([https://github.com/kimphysicsman/MyLittelTrip_frontend_react](https://github.com/danny1014/224.git))
+>> [프로젝트 상세(Front-end)](https://github.com/danny1014/224.git)
 
 <br />
 
