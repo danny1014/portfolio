@@ -2,66 +2,33 @@
 
 <br />
 
-# Intro
-
-> 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 김규열입니다.  
-> 5개월간 팀 프로젝트를 진행하여 백엔드 개발자 역량을 길렀습니다. 
-> 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
-
-<br />
-
 # Projects
-진행했던 프로젝트들 입니다  
-프로젝트 일정 관리와 파트 분배, 파트 간 협업 등 많은 경험을 할 수 있었고,  
-프로젝트 역할면에서는 ***관련된 핵심 기능 개발***을 맡아 진행했습니다.
 
-## 1. MyLittleTrip
-
-> 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
+## 2호선을 이용하는 사람들
+> - 2호선 기반 정보 제공 및 커뮤니티 웹 사이트
 >
-> - 개발기간 : 2022.07.07-09.02
-> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
+> - 개발기간 : 2024.08.21~2024.09.25
 >
->> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
->> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+## 1. 목표
+> - 사용자들이 쉽게 정보를 찾고, 커뮤니티 활동을 할 수 있도록 지원하는 것이 주 목표입니다.
+> - 사용자 경험을 개선하고, 효율적인 데이터 관리를 통해 서비스 품질을 향상시키는 것을 목표로 하였습니다.
 >
->> Front-end
->> - Language : javascript
->> - Skill : React.js
->>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+## 2. 역할
+>
+>> - 개발: 프로젝트의 설계 및 구현을 담당하였습니다.
+>> - 기능 구현: 회원 관리, 공지사항 관리, 개인화된 사용자 페이지 등 주요 기능을 개발하였습니다.
+>> - 문서화: 코드 및 시스템 구조에 대한 문서를 작성하여 팀원들이 이해하기 쉽게 하였습니다.
+>
+>> - 프로그래밍 언어 : Java
+>> - ORM : MyBatis
+>> - 데이터베이스 : Oracle
+>> - 프론트엔드 : JSP, HTML, CSS, JavaScript
+>> - 서버 : Apache Tomcat
+>
+>> [프로젝트 상세(Back-end)](https://github.com/danny1014/224-Backend.git)  
+>
+>> [프로젝트 상세(Front-end)]([https://github.com/kimphysicsman/MyLittelTrip_frontend_react](https://github.com/danny1014/224.git))
 
-<br />
-
-# Youtube
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/HR1b2hrxvbY" title="사오이십조 - DRF 5일차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="사오이십조 - DRF 5일차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/nXTzsSGfIbg" title="사오이십조 - 220624아침퀴즈 스터디영상">
-        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="사오이십조 - 220624아침퀴즈 스터디영상">
-          </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
-
-
-<br />
 <br />
 
 # Contact
